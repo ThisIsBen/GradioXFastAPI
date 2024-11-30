@@ -1,6 +1,7 @@
 # Content:
 This program gets the user's input with a web ui built by Gradio.\
 The user's data will be sent to a server built by FastAPI with both Get and Post http request.
+Lastly, the response from the server will be displayed at the output field on the client side web ui.
 ## Execution Result:
 ![image](https://github.com/user-attachments/assets/c30952a9-59b2-4f1f-bd0e-1ce2be560573)
 
